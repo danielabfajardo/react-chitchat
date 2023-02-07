@@ -1,8 +1,9 @@
 # ChitChat Documentation
 
-<img src="https://github.com/danielabfajardo/react-chitchat/main/chitchat-mainpage.png" alt="Chitchat Screenshot" title="ChitChat First Look">
+<img src="https://github.com/danielabfajardo/react-chitchat/blob/9bba8716bf7b80eec7186d8baab16d496f8cc09a/chitchat-mainpage.png" alt="Chitchat Screenshot" title="ChitChat First Look" style="width:50%">
+<img src="https://github.com/danielabfajardo/react-chitchat/blob/9bba8716bf7b80eec7186d8baab16d496f8cc09a/chitchat-chat.png" alt="Chitchat Chat Room" title="ChitChat Chat Room" style="width:50%">
 
-ChitChat is a real-time chat website built with React and Tailwind CSS. It allows users to create chat rooms and have real-time conversations with other users.
+ChitChat is a real-time chat website built with Firebase, React, and Tailwind CSS. It allows users to create chat rooms and have real-time conversations with other users.
 
 ## Key Features
 
@@ -21,7 +22,7 @@ A text editor of your choice (e.g. Visual Studio Code)
 
 To install and run ChitChat locally, follow these steps:
 
-Clone the repository: git clone https://github.com/[username]/chitchat.git
+Clone the repository: git clone https://github.com/danielabfajardo/chitchat.git
 Change into the project directory: cd chitchat
 Install the required dependencies: npm install
 Start the development server: npm start
@@ -29,7 +30,7 @@ The application should now be running on http://localhost:3000.
 
 ## Deployment
 
-ChitChat can be deployed to a hosting platform such as Heroku or Firebase. The specific steps to deploy the application will vary depending on the hosting platform you choose.
+ChitChat can be deployed to a hosting platform such as Firebase. The specific steps to deploy the application will vary depending on the hosting platform you choose.
 
 ## Contributing
 
