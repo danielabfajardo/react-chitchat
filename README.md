@@ -1,6 +1,6 @@
 # ChitChat Documentation
 
-
+<img src="https://github.com/danielabfajardo/react-chitchat/main/chitchat-mainpage.png" alt="Chitchat Screenshot" title="ChitChat First Look">
 
 ChitChat is a real-time chat website built with React and Tailwind CSS. It allows users to create chat rooms and have real-time conversations with other users.
 
