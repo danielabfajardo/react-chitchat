@@ -1,5 +1,7 @@
 # ChitChat Documentation
 
+Live Website: <a href="https://chitchatbydaniela.netlify.app/">https://chitchatbydaniela.netlify.app/</a>
+
 <img src="https://github.com/danielabfajardo/react-chitchat/blob/9bba8716bf7b80eec7186d8baab16d496f8cc09a/chitchat-mainpage.png" alt="Chitchat Screenshot" title="ChitChat First Look" style="width:50%">
 <img src="https://github.com/danielabfajardo/react-chitchat/blob/9bba8716bf7b80eec7186d8baab16d496f8cc09a/chitchat-chat.png" alt="Chitchat Chat Room" title="ChitChat Chat Room" style="width:50%">
 
